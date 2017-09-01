@@ -1,0 +1,6 @@
+GET /doc/main.html HTTP/1.1
+Host: www.qq.com
+Connection: Close
+Content_Length: 17
+
+name=loren&age=28
